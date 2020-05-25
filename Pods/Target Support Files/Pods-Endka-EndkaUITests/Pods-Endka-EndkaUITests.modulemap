@@ -1,0 +1,6 @@
+framework module Pods_Endka_EndkaUITests {
+  umbrella header "Pods-Endka-EndkaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
